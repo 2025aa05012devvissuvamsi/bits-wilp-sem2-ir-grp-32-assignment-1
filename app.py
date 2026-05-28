@@ -866,8 +866,8 @@ def render_analytics_tab(documents_df: DataFrame) -> None:
 def main() -> None:
     render_team_banner()
 
-    st.title("🔎 DocSearch IR Lab")
-    st.caption("An interactive workbench for exploring information retrieval techniques - from raw text to tolerant search.")
+    st.title("🔎 DocSearch Information Retrieval System")
+    st.caption("An interactive workbench for exploring information retrieval techniques.")
     st.divider()
 
     documents_df = initialize_dataset()
