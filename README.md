@@ -127,7 +127,7 @@ After running, Streamlit will open the application in your browser.
 ## Deployed Application
 
 Live Demo:  
-`https://bits-wilp-sem2-ir-grp-32-assignment-1-bkmysbya27mz62cfvenp3j.streamlit.app`
+`https://bits-wilp-sem2-ir-grp-32-assignment-1.streamlit.app`
 
 ---
 
