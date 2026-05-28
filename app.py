@@ -181,8 +181,8 @@ def render_team_banner() -> None:
         <p><em>{COURSE_NAME}</em></p>
         <table class="member-table">
             <thead><tr>
-                <th>Registration No.</th><th>Member Name</th>
-                <th style="text-align:center">Contribution</th>
+                <th>Student Registration Number</th><th>Name</th>
+                <th style="text-align:center">Percentage of contribution out of 100%</th>
             </tr></thead>
             <tbody>{rows}</tbody>
         </table>
