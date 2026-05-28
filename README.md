@@ -12,7 +12,7 @@ The application demonstrates core IR concepts including preprocessing pipelines,
   - Stop-word removal
   - Punctuation removal
   - Hyphen normalization
-  - Stemming / token normalization
+  - Stemming / Lemmatization
 
 - Inverted index generation
 
@@ -82,8 +82,8 @@ You can also upload your own CSV dataset directly from the application UI.
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/docsearch-ir-system.git
-cd docsearch-ir-system
+git clone https://github.com/2025aa05012devvissuvamsi/bits-wilp-sem2-ir-grp-32-assignment-1.git
+cd bits-wilp-sem2-ir-grp-32-assignment-1
 ```
 
 ### 2. Create Virtual Environment (Optional)
@@ -153,7 +153,3 @@ This project is designed for learning and demonstrating fundamental concepts in:
 - Retrieval Evaluation
 
 ---
-
-## License
-
-This project is intended for educational and academic purposes.
